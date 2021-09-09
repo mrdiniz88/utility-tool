@@ -1,0 +1,15 @@
+# utility-tool
+# comandos
+
+```
+apt-get update -y
+apt-get upgrade -y
+pkg install python
+pkg intall git
+pip intall speedtest
+git clone https://github.com/mrdiniz88/utility-tool.git
+cd utility-tool
+python3 main.py
+```
+
+<h5>Creditos: https://github.com/mrdiniz88/ && https://github.com/matheus-joestar/</h5>
